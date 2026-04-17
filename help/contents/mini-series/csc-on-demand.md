@@ -3,7 +3,7 @@ title: 컨텐츠 Supply chain 가치 실현 시리즈
 description: 이 시리즈에서는 계획에서 측정에 이르기까지 supply chain 콘텐츠를 현대화하는 방법을 살펴봅니다. 세션에서는 아키텍처, 운영 모델, 경영진 후원, 변경 관리에 대한 실용적인 접근 방식을 강조하여 효율성을 높이고 컨텐츠 운영을 확장하며 측정 가능한 결과를 제공합니다.
 topic: Content Supply Chain
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
