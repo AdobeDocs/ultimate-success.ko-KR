@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-이 세션은 사전 작업이 거의 필요 없습니다.  선택적으로 [VRA 시리즈](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)에서 [변경 관리 전략](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) 녹화를 볼 수 있으며, 모든 완성도 수준에서 팀을 지원하고, 모든 참석자가 AJO 사용 사례에 직접 맞는 유형의 한 페이지 변경 계획을 가지고 떠날 수 있습니다.
+이 세션은 사전 작업이 거의 필요 없습니다.  선택적으로 [VRA 시리즈](https://experienceleague.adobe.com/ko/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)에서 [변경 관리 전략](https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) 녹화를 볼 수 있으며, 모든 완성도 수준에서 팀을 지원하고, 모든 참석자가 AJO 사용 사례에 직접 맞는 유형의 한 페이지 변경 계획을 가지고 떠날 수 있습니다.
 
 이 세션은 다음에 중점을 둡니다.
 
