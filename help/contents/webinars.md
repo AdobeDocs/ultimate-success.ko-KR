@@ -2,7 +2,7 @@
 title: Ultimate Success 웨비나
 description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 hide: true
-source-git-commit: c3a2b9ff21c5920d9bb2251dd49f1a3be5686b55
+source-git-commit: b91e9cffd863b0a5de8aa219e87cc6d6680cbc24
 workflow-type: tm+mt
 source-wordcount: '10274'
 ht-degree: 1%
@@ -16,7 +16,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 ## Commerce
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -79,7 +80,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -116,7 +118,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -323,7 +326,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -435,7 +439,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -544,7 +549,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -845,7 +851,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -932,7 +939,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -970,7 +978,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 **2025**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1129,7 +1138,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 **2024**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1241,7 +1251,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1351,7 +1362,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1484,7 +1496,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1689,7 +1702,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 ## GenStudio for Performance Marketing
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1752,7 +1766,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 * ../contents/2026/change-management-deep-dive.md
@@ -1788,7 +1803,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1971,7 +1987,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 **2024**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2130,7 +2147,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2169,7 +2187,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2350,7 +2369,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2389,7 +2409,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2500,7 +2521,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2537,7 +2559,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2576,7 +2599,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2661,7 +2685,8 @@ Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
