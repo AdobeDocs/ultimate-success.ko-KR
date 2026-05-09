@@ -2,7 +2,7 @@
 title: Ultimate Success 웨비나 라이브러리
 description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 hide: true
-source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
+source-git-commit: 6c0d3d7998b5beed45fb8d88aa3685c2e6dc7bc9
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -23,6 +23,8 @@ CARDS  ****
 
 {cta = Watch}
 
+* ../contents/2026/unified-audiences.md
+* ../contents/2026/intelligent-decsioning.md
 * ../contents/2026/change-management-deep-dive.md
 * https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
 * https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
