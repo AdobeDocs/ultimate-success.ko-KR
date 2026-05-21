@@ -19,4 +19,4 @@ ht-degree: 0%
 
 컨텐츠 복잡성이 심화됨에 따라 많은 기업들이 컨텐츠 운영의 비즈니스 가치를 명확히 제시하기 위해 고군분투하고 있습니다. 이 웨비나는 콘텐츠 Supply chain에서 가치를 측정하는 구조화된 결과 기반 접근 방식을 도입하여 의미 있는 KPI를 정의하고, 콘텐츠 투자를 비즈니스 영향과 연결하며, 지속적인 가치 실현을 위한 경영진 준비가 끝난 측정 스코어카드를 설정하는 데 도움이 됩니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491243/?captions=kor&learn=on&enablevpops)

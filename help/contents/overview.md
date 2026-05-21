@@ -35,7 +35,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1779390693086" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491243/?captions=kor&format=jpeg&nocache=1779390693086" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +175,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="컨텐츠 Supply chain 가치 실현 시리즈" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="컨텐츠 Supply chain 가치 실현 시리즈"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479093/?captions=kor&format=jpeg&nocache=1773689372143" alt="컨텐츠 Supply chain 가치 실현 시리즈"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
