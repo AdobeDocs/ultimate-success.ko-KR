@@ -2,10 +2,10 @@
 user-guide-title: Ultimate Success 웨비나 라이브러리
 breadcrumb-title: Ultimate Success 웨비나 라이브러리
 user-guide-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
-source-git-commit: 7bf89129c8771ffb9bb37634158c81b3d7a5385b
+source-git-commit: 14b62ebfaa1f07e69ac4ab4d43ced15ce4061901
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -29,3 +29,7 @@ ht-degree: 2%
    + {hide-from-toc}[Adobe Data Insights Agent](../contents/2026/data-insights-agent-cja.md)
    + {hide-from-toc}[GEO에 대한 AEM 최적화](../contents/2026/optimize-aem-for-geo.md)
    + {hide-from-toc}[CJA 공유 구성 요소](../contents/2026/shared-components-cja.md)
+   + {hide-from-toc}[이메일 캠페인](../contents/2026/email-campaigns.md)
+   + {hide-from-toc}[고객 경험 전략을 만드는 중](../contents/2026/maximize-ajo-value.md)
+   + {hide-from-toc}[Federated Audience 구성 잠금 해제](../contents/2026/unlock-federated-audience-composition.md)
+   + {hide-from-toc}[유효 사용 사례 문](../contents/2026/effective-use-case-statements.md)
