@@ -2,7 +2,8 @@
 user-guide-title: Ultimate Success 웨비나 라이브러리
 breadcrumb-title: Ultimate Success 웨비나 라이브러리
 user-guide-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
-source-git-commit: 14b62ebfaa1f07e69ac4ab4d43ced15ce4061901
+nudge: true
+source-git-commit: b451f5edcc76c97b6b8c27bde91129a06840c8b5
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 1%
