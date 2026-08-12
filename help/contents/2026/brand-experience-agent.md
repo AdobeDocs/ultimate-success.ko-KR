@@ -2,13 +2,8 @@
 title: Adobe 에이전트 확장 - Brand Experience Agent
 description: Adobe의 Brand Experience Agent을 통해 워크플로를 간소화하고, 컨텐츠 제작을 가속화하고, 확장 가능한 비즈니스 가치를 위한 거버넌스를 보장하는 방법에 대해 알아봅니다.
 product: Workfront
-role:
-  - Admin
-  - Leader
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Leader, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -16,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -28,7 +23,7 @@ ht-degree: 2%
 
 Brand Experience Agent을 통해 인간의 검토 및 거버넌스를 유지하면서 콘텐츠 제작, 사이트 현대화 및 개발을 가속화하는 방법에 대해 알아봅니다. 확장 가능한 비즈니스 가치를 제공하기 위해 고부가가치 반복 워크플로우를 표준화하는 것이 중요한 이유를 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496972/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
 
 ## 학습 내용
 

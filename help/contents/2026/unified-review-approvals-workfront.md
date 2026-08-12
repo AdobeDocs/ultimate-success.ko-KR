@@ -2,13 +2,8 @@
 title: Workfront에서 통합 검토 및 승인을 원하는 이유
 description: Adobe Workfront Unified Review & Approval 을 통해 컨텐츠 검토 프로세스를 간소화하고 공동 작업을 개선하며 효율성을 높이는 방법을 살펴볼 수 있습니다.
 product: Workfront
-role:
-  - Admin
-  - Developer
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Developer, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -16,7 +11,7 @@ jira: KT-22309
 duration: 3313
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
