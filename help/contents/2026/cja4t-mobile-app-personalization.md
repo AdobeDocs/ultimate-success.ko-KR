@@ -25,7 +25,7 @@ ht-degree: 2%
 
 CJA4T를 사용하여 Adobe Target 모바일 앱 경험을 채널 전반의 다운스트림 작업에 연결하는 방법을 알아봅니다. 이 세션은 ID 결합, 데이터 아키텍처, 보고 구성 및 일반적인 설정 위험 회피에 대한 지침을 제공합니다. 개인화 영향을 완벽하게 파악하고 더 나은 최적화 결정을 내릴 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496983/?captions=kor&learn=on&enablevpops)
 
 ## 학습 내용
 

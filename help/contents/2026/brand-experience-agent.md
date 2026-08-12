@@ -28,7 +28,7 @@ ht-degree: 2%
 
 Brand Experience Agent을 통해 인간의 검토 및 거버넌스를 유지하면서 콘텐츠 제작, 사이트 현대화 및 개발을 가속화하는 방법에 대해 알아봅니다. 확장 가능한 비즈니스 가치를 제공하기 위해 고부가가치 반복 워크플로우를 표준화하는 것이 중요한 이유를 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496972/?captions=kor&learn=on&enablevpops)
 
 ## 학습 내용
 

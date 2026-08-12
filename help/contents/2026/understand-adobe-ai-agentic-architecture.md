@@ -30,7 +30,7 @@ ht-degree: 4%
 
 이 세션은 Adobe의 AI 기능을 비즈니스 목표에 맞게 조정하기 위한 자세한 프레임워크를 제공합니다. 데이터 준비 및 거버넌스가 강화된 확장 가능한 솔루션을 채택하고 Adobe 투자를 극대화하는 데 중점을 둡니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496963/?captions=kor&learn=on&enablevpops)
 
 ## 학습 내용
 
