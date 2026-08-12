@@ -44,5 +44,5 @@ ht-degree: 1%
   + {hide-from-toc}[Adobe 에이전트 크기 조정 - Brand Experience Agent](../contents/2026/brand-experience-agent.md)
   + {hide-from-toc}[데이터 수집 문제 해결](../contents/2026/data-collection-troubleshooting.md)
   + {hide-from-toc}[Adobe Analytics에서 Customer Journey Analytics으로 마이그레이션 로드맵](../contents/2026/aa-to-cja-migration-roadmap.md)
-  + 모바일 앱 Personalization용 {hide-from-toc}[CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
+  + {hide-from-toc}[모바일 앱 Personalization용 CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe의 AI 및 Agentic 아키텍처](../contents/2026/understand-adobe-ai-agentic-architecture.md)

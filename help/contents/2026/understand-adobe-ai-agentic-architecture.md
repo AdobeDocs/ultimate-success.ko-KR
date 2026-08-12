@@ -2,8 +2,15 @@
 title: 비즈니스 요구 사항에 맞는 Adobe의 AI 및 Agentic 아키텍처 이해
 description: Adobe의 AI 및 에이전트 아키텍처가 비즈니스 성과에 맞춰 어떻게 조정되고, Adobe 투자를 극대화하며, 강력한 거버넌스로 확장 가능한 채택을 가능하게 하는지 알아봅니다.
 product: Platform
-role: AdminDeveloperLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Developer
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

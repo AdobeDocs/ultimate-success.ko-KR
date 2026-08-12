@@ -2,8 +2,13 @@
 title: Adobe Analytics에서 Customer Journey Analytics으로의 마이그레이션 로드맵
 description: Adobe Analytics에서 Customer Journey Analytics으로 마이그레이션하는 단계에 대해 알아봅니다. ID 전략, 데이터 유효성 검사 등에 대한 통찰력을 얻으십시오.
 product: Customer Journey Analytics
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

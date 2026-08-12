@@ -2,8 +2,12 @@
 title: 데이터 수집 문제 해결 - 팁, 요령 및 거버넌스 모범 사례
 description: 거버넌스 주도 기술을 통해 데이터를 확인하고 문제를 보다 신속하게 해결할 수 있는 효과적인 Adobe Analytics 및 Web SDK 문제 해결 방법을 알아봅니다.
 product: Customer Journey Analytics
-role: AdminDeveloper
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

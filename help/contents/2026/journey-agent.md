@@ -2,8 +2,14 @@
 title: Adobe 에이전트 크기 조정 - Journey Agent
 description: Adobe의 Journey Agent이 AI 워크플로우와 사람의 감독을 결합하여 여정 생성 및 거버넌스를 최적화하는 방법에 대해 알아봅니다.
 product: Journey Optimizer
-role: AdminLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

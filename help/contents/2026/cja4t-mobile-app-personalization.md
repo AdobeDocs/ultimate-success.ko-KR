@@ -3,7 +3,9 @@ title: 실험에서 Insight - 모바일 앱 Personalization용 CJA4T
 description: CJA4T가 어떻게 Adobe Target 모바일 앱 경험을 크로스 채널 인사이트에 연결하여 더 나은 개인화 및 최적화를 가능하게 하는지 알아보십시오.
 product: Customer Journey Analytics
 role: User
-level: BeginnerIntermediate
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
