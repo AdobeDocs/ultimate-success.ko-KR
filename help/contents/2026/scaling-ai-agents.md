@@ -1,7 +1,7 @@
 ---
 title: Adobe AI 에이전트 크기 조정 - Audience Agent 및 Data Insights Agent
 description: Audience Agent 및 Data Insights Agent에서 애드혹 AI 사용을 세분화, 고객 관리 및 캠페인 분석을 위한 반복 가능한 워크플로우로 전환하는 방법에 대해 알아봅니다.
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22287
 duration: 2930
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 2%
