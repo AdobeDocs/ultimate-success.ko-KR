@@ -1,7 +1,7 @@
 ---
 title: 비즈니스 요구 사항에 맞는 Adobe의 AI 및 Agentic 아키텍처 이해
 description: Adobe의 AI 및 에이전트 아키텍처가 비즈니스 성과에 맞춰 어떻게 조정되고, Adobe 투자를 극대화하며, 강력한 거버넌스로 확장 가능한 채택을 가능하게 하는지 알아봅니다.
-product: Platform
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 이 세션은 Adobe의 AI 기능을 비즈니스 목표에 맞게 조정하기 위한 자세한 프레임워크를 제공합니다. 데이터 준비 및 거버넌스가 강화된 확장 가능한 솔루션을 채택하고 Adobe 투자를 극대화하는 데 중점을 둡니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496963/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
 
 ## 학습 내용
 
