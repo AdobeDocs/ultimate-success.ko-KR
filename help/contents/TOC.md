@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success 웨비나 라이브러리
 breadcrumb-title: Ultimate Success 웨비나 라이브러리
 user-guide-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 nudge: true
-source-git-commit: 1ae82130a91f1565b836c157e2d8e66a7bbb66b9
+source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
@@ -36,6 +36,13 @@ ht-degree: 1%
   + {hide-from-toc}[유효 사용 사례 문](../contents/2026/effective-use-case-statements.md)
   + {hide-from-toc}[Go-Live 후 입양 유지](../contents/2026/operational-drift.md)
   + {hide-from-toc}[다중 지역 팀 관리](../contents/2026/multi-region-teams.md)
-  + {hide-from-toc}[고객 경험의 개인화 기능](../contents/2026/personalisation-capabilities.md)
   + {hide-from-toc}[Adobe Experience Manager의 GenAI 에이전트](../contents/2026/genai-agents-aem.md)
   + {hide-from-toc}[AJO 사용 사례 생성 및 우선 순위 지정](../contents/2026/ajo-use-cases.md)
+  + {hide-from-toc}[Workfront에서 통합 검토 및 승인을 원하는 이유](../contents/2026/unified-review-approvals-workfront.md)
+  + {hide-from-toc}[Audience Agent 및 Data Insights Agent](../contents/2026/scaling-ai-agents.md)
+  + {hide-from-toc}[Adobe 에이전트 크기 조정 - Journey Agent](../contents/2026/journey-agent.md)
+  + {hide-from-toc}[Adobe 에이전트 크기 조정 - Brand Experience Agent](../contents/2026/brand-experience-agent.md)
+  + {hide-from-toc}[데이터 수집 문제 해결](../contents/2026/data-collection-troubleshooting.md)
+  + {hide-from-toc}[Adobe Analytics에서 Customer Journey Analytics으로 마이그레이션 로드맵](../contents/2026/aa-to-cja-migration-roadmap.md)
+  + {hide-from-toc}[모바일 앱 Personalization용 CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
+  + {hide-from-toc}[Adobe의 AI 및 Agentic 아키텍처](../contents/2026/understand-adobe-ai-agentic-architecture.md)
