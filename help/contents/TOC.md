@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success 웨비나 라이브러리
 breadcrumb-title: Ultimate Success 웨비나 라이브러리
 user-guide-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 nudge: true
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -46,3 +46,4 @@ ht-degree: 1%
   + {hide-from-toc}[Adobe Analytics에서 Customer Journey Analytics으로 마이그레이션 로드맵](../contents/2026/aa-to-cja-migration-roadmap.md)
   + {hide-from-toc}[모바일 앱 Personalization용 CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe의 AI 및 Agentic 아키텍처](../contents/2026/understand-adobe-ai-agentic-architecture.md)
+  + {hide-from-toc}[Adobe Workfront용 확장 가능한 운영 모델](../contents/2026/scalable-operating-model.md)
