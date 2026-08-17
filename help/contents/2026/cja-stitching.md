@@ -2,8 +2,13 @@
 title: Adobe Customer Journey Analytics 스티칭으로 크로스 채널 인사이트 향상
 description: Adobe CJA 결합은 사람 수준의, 크로스 채널 분석을 잠금 해제하고 보고, 속성 및 대상자 빌드를 개선하는 방법을 알아봅니다.
 product: Journey Optimizer
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
