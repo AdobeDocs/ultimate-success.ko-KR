@@ -23,7 +23,7 @@ ht-degree: 2%
 
 리드 관리를 위한 Adobe의 권장 접근 방식을 살펴보고 자격, 후속 조치 및 측정에 대한 공유 프레임워크에서 마케팅 및 판매가 작동하는 방식을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502995/?captions=kor&learn=on&enablevpops)
 
 ## 개요
 

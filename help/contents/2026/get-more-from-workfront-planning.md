@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Workfront Planning이 마케팅 계획에서 단편화된 가시성, 단절된 전략 및 실행, 수동 보고 오버헤드를 해결하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502959/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502975/?captions=kor&learn=on&enablevpops)
 
 ## 주요 학습 사항
 
