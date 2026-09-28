@@ -8,17 +8,38 @@ role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2750
-last-substantial-update: 2026-04-30T00:00:00Z
+last-substantial-update: 2026-04-30T00:00:00.000Z
 jira: KT-21094
 hide: true
 hidefromtoc: true
-source-git-commit: c7f68c2fd55130a959a631e7327851ce5553544c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: b3a93754-a8b8-46eb-9421-7eccaeeb3dff
+    internal-label: Best practices
+  - id: e30b0a1a-b594-47b8-af94-1e3a2be6df11
+    internal-label: Get started
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
-
 ---
-
 
 # 변경 관리 심층 분석, Adobe Journey Optimizer(AJO)
 
@@ -26,7 +47,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-이 세션은 사전 작업이 거의 필요 없습니다.  선택적으로 [VRA 시리즈](https://experienceleague.adobe.com/ko/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)에서 [변경 관리 전략](https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) 녹화를 볼 수 있으며, 모든 완성도 수준에서 팀을 지원하고, 모든 참석자가 AJO 사용 사례에 직접 맞는 유형의 한 페이지 변경 계획을 가지고 떠날 수 있습니다.
+이 세션은 사전 작업이 거의 필요 없습니다.  선택적으로 [VRA 시리즈](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)에서 [변경 관리 전략](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) 녹화를 볼 수 있으며, 모든 완성도 수준에서 팀을 지원하고, 모든 참석자가 AJO 사용 사례에 직접 맞는 유형의 한 페이지 변경 계획을 가지고 떠날 수 있습니다.
 
 이 세션은 다음에 중점을 둡니다.
 
