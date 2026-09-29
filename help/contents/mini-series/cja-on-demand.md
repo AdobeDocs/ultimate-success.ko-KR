@@ -3,13 +3,14 @@ title: CJA Value Realization Acceleration 시리즈
 description: 이 온디맨드 Customer Journey Analytics 시리즈는 조직이 고객 데이터를 신뢰할 수 있는 통찰력과 측정 가능한 비즈니스 성과로 만드는 가치 기반 측정 전략을 구축하는 데 도움이 됩니다.
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 0%
-
+source-wordcount: '776'
+ht-degree: 25%
 ---
-
 
 # CJA Value Realization Acceleration 시리즈
 
