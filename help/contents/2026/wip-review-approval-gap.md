@@ -19,7 +19,7 @@ source-wordcount: '132'
 ht-degree: 0%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3503926/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503933/?captions=kor&learn=on&enablevpops)
 
 # 초안에서 게재까지: WIP 검토 및 승인 간격 마감
 
