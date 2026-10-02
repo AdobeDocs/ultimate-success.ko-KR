@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success 웨비나 라이브러리
 breadcrumb-title: Ultimate Success 웨비나 라이브러리
 user-guide-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 nudge: true
-source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
+source-git-commit: 0f24a0a40399ef20b99280e22d684f57a9c8776e
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 
@@ -58,3 +58,4 @@ ht-degree: 0%
   + {hide-from-toc}[태그됨, 관리됨, 활성화됨](../contents/2026/metadata-backbone-content-at-scale.md)
   + {hide-from-toc}[B2B 성장의 미래 잠금](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc}[WIP 검토 및 승인 간격 닫기](../contents/2026/wip-review-approval-gap.md)
+  + {hide-from-toc}[AI 규모에 맞게 구축](../contents/2026/building-for-ai-scale.md)
