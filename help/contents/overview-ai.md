@@ -2,21 +2,15 @@
 title: Ultimate Success 웨비나 라이브러리
 description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Ultimate Success 웨비나 라이브러리
 
 Ultimate Success 고객만을 위해 만들어진 전략 및 기술 모범 사례에 대한 숙달을 가속화하기 위해 설계된 전문가 주도 웨비나의 포괄적인 라이브러리에 액세스하십시오. 기본 개념에서 고급 구현 전략에 이르기까지 이 웨비나는 측정 가능한 비즈니스 성과를 도출하는 데 필요한 모든 것을 다룹니다.
-
-## Adobe AI Essentials
-
-베이컨 입섬 돌로르 아멧 삼겹살 피칸하 생크, 빌통 햄 미트로프 폴로니 삼겹살 도너 란제거. 터키 여분 갈비 필레 미뇽 판세타 그라운드 라운드 레베르카스 어깨 드럼 스틱 육포 볼 팁. 짧은 립 프랑크퍼 척 shankle ham hock tri-tip, 필렛 미뇽 테일 소 그라운드 boudin chislic drumstick. 카피콜라 졸라 짧은 갈비, 어깨 프랑크푸르터 여분 갈비 돼지 등심 양념 구이 터키 부딘 살라미 반죽 라운드. 조울 샨클 란제거 프로슈토 포르체타 터덕켄 치슬릭 척. 쇠고기 산클 터덕, 조개 짧은 갈비 허리 팬케타 여분 갈비 코르드 쇠고기 포케타 포로니 케빈 조울 포크 포크.
-
-[모든 웨비나 보기](./webinars.md)
 
 ## 웨비나
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491243/?captions=kor&format=jpeg&nocache=1790984045136" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="컨텐츠 Supply chain 가치 실현 시리즈" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479093/?captions=kor&format=jpeg&nocache=1773689372143" alt="컨텐츠 Supply chain 가치 실현 시리즈"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="컨텐츠 Supply chain 가치 실현 시리즈"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
