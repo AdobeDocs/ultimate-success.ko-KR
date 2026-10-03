@@ -3,17 +3,19 @@ user-guide-title: Ultimate Success 웨비나 라이브러리
 breadcrumb-title: Ultimate Success 웨비나 라이브러리
 user-guide-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 nudge: true
-source-git-commit: 0f24a0a40399ef20b99280e22d684f57a9c8776e
+source-git-commit: 96be43835a9dd67a3fc538e11ba72ed4963f584b
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 ---
 
 # Ultimate Success 웨비나 라이브러리 {#ultimate-success-webinar-library}
 
 + [개요](overview.md)
++ {hide-from-toc}[개요 AI](overview-ai.md)
 + [웨비나](webinars.md)
 + Mini-Series 콘텐츠 {#mini-series}
+  + {hide-from-toc}[AI 필수 패키지](mini-series/ai-essentials.md)
   + [CJA Value Realization Acceleration 시리즈](mini-series/cja-on-demand.md)
   + [AJO Value Realization Acceleration 시리즈](mini-series/ajo-on-demand.md)
   + [CSC 값 실현 시리즈](mini-series/csc-on-demand.md)
@@ -42,13 +44,13 @@ ht-degree: 0%
   + {hide-from-toc}[Adobe 에이전트 크기 조정 - Brand Experience Agent](../contents/2026/brand-experience-agent.md)
   + {hide-from-toc}[데이터 수집 문제 해결](../contents/2026/data-collection-troubleshooting.md)
   + {hide-from-toc}[Adobe Analytics에서 Customer Journey Analytics으로 마이그레이션 로드맵](../contents/2026/aa-to-cja-migration-roadmap.md)
-  + {hide-from-toc}[모바일 앱 Personalization용 CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
+  + 모바일 앱 Personalization용 {hide-from-toc}[CJA4T](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Adobe의 AI 및 Agentic 아키텍처](../contents/2026/understand-adobe-ai-agentic-architecture.md)
   + {hide-from-toc}[Adobe Workfront용 확장 가능한 운영 모델](../contents/2026/scalable-operating-model.md)
   + {hide-from-toc}[Adobe Customer Journey Analytics 결합](../contents/2026/cja-stitching.md)
   + {hide-from-toc}[사용 사례를 비즈니스 결과로 전환](../contents/2026/use-cases-into-business-outcomes.md)
   + {hide-from-toc}[AJO 제품 릴리스 세션](../contents/2026/ajo-product-relelase-session.md)
-  + {hide-from-toc}[Adobe Experience Manager Assets의 AI 기능](../contents/2026/ai-features-aem-assets.md)
+  + Adobe Experience Manager Assets의 {hide-from-toc}[AI 기능](../contents/2026/ai-features-aem-assets.md)
   + {hide-from-toc}[Marketo Engage 리드 관리 모범 사례](../contents/2026/marketo-lead-management-best-practices.md)
   + {hide-from-toc}[Adobe Mix Modeler을 통한 현명한 마케팅 결정](../contents/2026/smarter-marketing-mix-modeler.md)
   + {hide-from-toc}[Workfront Planning에서 추가 정보 가져오기](../contents/2026/get-more-from-workfront-planning.md)
