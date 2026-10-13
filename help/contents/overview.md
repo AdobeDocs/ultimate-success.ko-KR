@@ -1,8 +1,8 @@
 ---
 title: Ultimate Success 웨비나 라이브러리
-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
+description: Ultimate Success 고객을 위한 독점적이고 전문가가 이끄는 웨비나 라이브러리를 탐색하여 측정 가능한 비즈니스 결과를 제공하는 전략 및 기술 모범 사례를 신속하게 마스터하십시오.
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491243/?captions=kor&format=jpeg&nocache=1791917786805" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1791917786805" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="컨텐츠 Supply chain 가치 실현 시리즈" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479093/?captions=kor&format=jpeg&nocache=1773689372143" alt="컨텐츠 Supply chain 가치 실현 시리즈"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="컨텐츠 Supply chain 가치 실현 시리즈"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
