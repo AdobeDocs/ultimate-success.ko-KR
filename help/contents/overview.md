@@ -1,14 +1,12 @@
 ---
 title: Ultimate Success 웨비나 라이브러리
-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
+description: Ultimate Success 고객을 위한 독점적이고 전문가가 이끄는 웨비나 라이브러리를 탐색하여 측정 가능한 비즈니스 결과를 제공하는 전략 및 기술 모범 사례를 신속하게 마스터하십시오.
 hide: true
-source-git-commit: 7bf89129c8771ffb9bb37634158c81b3d7a5385b
+source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 0%
-
+source-wordcount: '842'
+ht-degree: 16%
 ---
-
 
 # Ultimate Success 웨비나 라이브러리
 
@@ -35,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491243/?captions=kor&format=jpeg&nocache=1779390693086" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491243/?captions=kor&format=jpeg&nocache=1791917786805" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="범용 편집기 및 최신 SSR 프레임워크를 사용하여 빠르고 편집 가능한 사이트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1779390693103" alt="범용 편집기 및 최신 SSR 프레임워크를 사용하여 빠르고 편집 가능한 사이트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791917786824" alt="범용 편집기 및 최신 SSR 프레임워크를 사용하여 빠르고 편집 가능한 사이트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="AJO 제품 릴리스 세션" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1779390693095" alt="AJO 제품 릴리스 세션"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791917786843" alt="AJO 제품 릴리스 세션"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,15 +106,14 @@ CARDS  ****
 
 ## Mini-Series 콘텐츠
 
-조직에서 Adobe 투자를 측정 가능한 비즈니스 영향력으로 전환하도록 설계된 Adobe의 가치 실현 시리즈를 통해 OnDemand 관련 녹화본을 살펴보십시오.
-
-각 집중 세션에서는 가치 실현 프레임워크의 핵심 축을 강조하여 전략 계획을 지원하고 가치 실현 시간을 단축하며 의미 있는 결과를 도출하기 위한 실용적인 지침과 검증된 아티팩트를 제공합니다. 제품 및 업계별 시리즈를 탐색하여 팀이 전략을 활성화하고, 관련자를 조정하고, 채택에서 영향까지 이동하는 방법을 알아보십시오.
+각 웨비나 빌드가 포함된 조정된 온디맨드 미니시리즈 콘텐츠 세트를 하나의 주제에 대해 살펴봄으로써 각 세션을 직접 배우거나 전체 시리즈를 시청하여 완벽하고 종합적인 이해를 얻을 수 있습니다.
 
 <!-- 
 CARDS  ****
 
   {cta  = View series}
   
+* mini-series/ai-essentials.md
 * mini-series/cja-on-demand.md
 * mini-series/ajo-on-demand.md
 * mini-series/csc-on-demand.md
@@ -124,6 +121,29 @@ CARDS  ****
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Essentials">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="mini-series/ai-essentials.md" title="AI Essentials" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="AI Essentials"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">AI 필수 패키지</a>
+                    </p>
+                    <p class="is-size-6">Adobe Customer Experience Orchestration 제품 전반의 핵심 개념과 실습형 AI 기능에 대해 다루는 온디맨드 세션으로 Adobe AI에 대해 알아봅니다.</p>
+                </div>
+                <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시리즈 보기</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CJA Value Realization Acceleration Series">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
