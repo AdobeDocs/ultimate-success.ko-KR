@@ -2,7 +2,7 @@
 title: AI Essentials
 description: Adobe Customer Experience Orchestration 제품 전반의 핵심 개념과 실습형 AI 기능에 대해 다루는 온디맨드 세션으로 Adobe AI에 대해 알아봅니다.
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
 workflow-type: tm+mt
 source-wordcount: '1310'
 ht-degree: 30%
@@ -303,3 +303,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

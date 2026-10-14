@@ -2,7 +2,7 @@
 title: Ultimate Success 웨비나 라이브러리
 description: Ultimate Success 고객을 위한 독점적이고 전문가가 이끄는 웨비나 라이브러리를 탐색하여 측정 가능한 비즈니스 결과를 제공하는 전략 및 기술 모범 사례를 신속하게 마스터하십시오.
 hide: true
-source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
+source-git-commit: 3e0476c188642f2642d7d67b0c27e08a26895f10
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -14,7 +14,7 @@ Ultimate Success 고객만을 위해 만들어진 전략 및 기술 모범 사�
 
 ## 웨비나
 
-Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움이 되도록 설계된 온디맨드 웨비나 컬렉션을 살펴보십시오. Ultimate 고객을 위해 구축된 각 세션은 실행 가능한 지침, 입증된 전략 및 실제 사례를 제공하여 일정에 따라 보다 현명한 의사 결정과 보다 강력한 결과를 도출하도록 지원합니다.
+Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움이 되도록 설계된 온디맨드 웨비나 컬렉션을 살펴보십시오. Ultimate 고객을 위해 구축된 각 세션은 실행 가능한 지침, 입증된 전략 및 실제 사례를 제공하여 일정에 따라 보다 현명한 의사 결정과 보다 강력한 결과를 도출하는 데 도움을 줍니다.
 
 <!-- 
 CARDS  ****
