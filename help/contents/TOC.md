@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success 웨비나 라이브러리
 breadcrumb-title: Ultimate Success 웨비나 라이브러리
 user-guide-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 nudge: true
-source-git-commit: 56718dcbe1a6ff4f61d73218925bdc33c43a8348
+source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '293'
 ht-degree: 0%
 ---
 
@@ -62,4 +62,7 @@ ht-degree: 0%
   + {hide-from-toc}[AI 규모에 맞게 구축](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[AJO 코드 기반 경험](../contents/2026/strategies-for-smarter-personalization.md)
   + {hide-from-toc}[Campaign REST API 시작](../contents/2026/getting-started-campaign-rest-apis.md)
+  + {hide-from-toc}[AEM AI Assistant 및 Adobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
+  + {hide-from-toc}[Campaign Email Designer을 사용하여 프로덕션 크기 조정](../contents/2026/scale-production-campaign-email-designer.md)
+  + {hide-from-toc}[비즈니스 영향에 AI 에이전트 투자 연결](../contents/2026/ai-agentic-investments-to-business-impact.md)
 
