@@ -22,7 +22,7 @@ ht-degree: 0%
 
 디지털 경험 팀은 종종 풍부한 분석 데이터에 액세스할 수 있지만 insight에서 작업까지의 명확한 경로가 없습니다. 이 세션에서는 마찰 포인트에 대해 Adobe Analytics 및 Customer Journey Analytics을 체계적으로 채굴하고 우선 순위가 지정되며 테스트 가능한 가설로 변환한 다음 지속적인 최적화를 위해 Adobe Target 및 Journey Optimizer에 통합하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508245/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508271/?captions=kor&learn=on&enablevpops)
 
 ## 학습 내용
 
