@@ -2,15 +2,55 @@
 title: Ultimate Success 웨비나
 description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 hide: true
-source-git-commit: 843c0f101b5420824f55281fb39999dfac013aab
+source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
 workflow-type: tm+mt
-source-wordcount: '18896'
-ht-degree: 32%
+source-wordcount: '19250'
+ht-degree: 33%
 ---
 
 # Ultimate Success 웨비나
 
 Adobe Experience Platform(AEP) 솔루션의 가치를 극대화하는 데 도움이 되도록 설계된 온디맨드 웨비나 컬렉션을 살펴보십시오. Ultimate 고객을 위해 구축된 각 세션은 실행 가능한 지침, 입증된 전략 및 실제 사례를 제공하여 일정에 따라 보다 현명한 의사 결정과 보다 강력한 결과를 도출하도록 지원합니다.
+
+## Analytics
+
+**2026**
+
+<!--
+CARDS
+
+{cta = Watch}
+
+* ../contents/2026/analytics-insights-experimentation-backlog.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Turning Analytics Insights Into an Experimentation Backlog">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/analytics-insights-experimentation-backlog.md" title="Analytics Insights를 실험 백로그로 만들기" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508271/?captions=kor&format=jpeg&nocache=1794588214567" alt="Analytics Insights를 실험 백로그로 만들기"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/analytics-insights-experimentation-backlog.md" target="_blank" rel="referrer" title="Analytics Insights를 실험 백로그로 만들기">Analytics 인사이트를 실험 백로그로 전환</a>
+                    </p>
+                    <p class="is-size-6">Adobe Analytics, Target 및 Journey Optimizer을 활용하여 분석 인사이트를 우선 순위가 지정된 실험 백로그로 변환하는 방법에 대해 알아봅니다.</p>
+                </div>
+                <a href="../contents/2026/analytics-insights-experimentation-backlog.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## 캠페인
 
@@ -32,7 +72,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/scale-production-campaign-email-designer.md" title="Campaign 이메일 Designer 및 컨텐츠 템플릿을 사용하여 프로덕션 확장" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504828/?format=jpeg&nocache=1794352048556" alt="Campaign 이메일 Designer 및 컨텐츠 템플릿을 사용하여 프로덕션 확장"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504828/?format=jpeg&nocache=1794588215065" alt="Campaign 이메일 Designer 및 컨텐츠 템플릿을 사용하여 프로덕션 확장"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +95,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/getting-started-campaign-rest-apis.md" title="통합 jumpstart - Campaign REST API 시작" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504659/?captions=kor&format=jpeg&nocache=1794352048565" alt="통합 jumpstart - Campaign REST API 시작"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504659/?captions=kor&format=jpeg&nocache=1794588215054" alt="통합 jumpstart - Campaign REST API 시작"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +134,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/enriching-adobe-commerce" title="Adobe Experience Platform으로 Adobe Commerce 강화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1794352050810" alt="Adobe Experience Platform으로 Adobe Commerce 강화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1794588216591" alt="Adobe Experience Platform으로 Adobe Commerce 강화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +157,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/transforming-b2b-commerce" title="Personalization 및 자동화를 통한 B2B 및 B2B2C Commerce 전환" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1794352050787" alt="Personalization 및 자동화를 통한 B2B 및 B2B2C Commerce 전환"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1794588216580" alt="Personalization 및 자동화를 통한 B2B 및 B2B2C Commerce 전환"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,6 +170,46 @@ CARDS
                     <p class="is-size-6">B2B Commerce가 AEM, Target 및 AEP을 사용하여 개인화를 확장하여 B2B2C 경험을 최적화하고 데이터 기반의 통합 콘텐츠 및 오퍼를 추진하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/transforming-b2b-commerce" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Coworker
+
+**2026**
+
+<!-- 
+CARDS
+
+{cta = Watch}
+
+* ../contents/2026/coworker-ai-teammate.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Meet Adobe Coworker - Your AI Teammate">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/coworker-ai-teammate.md" title="Adobe 동료 - 귀하의 AI 팀원을 만나보십시오" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508228/?format=jpeg&nocache=1794588216783" alt="Adobe 동료 - 귀하의 AI 팀원을 만나보십시오"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/coworker-ai-teammate.md" target="_blank" rel="referrer" title="Adobe 동료 - 귀하의 AI 팀원을 만나보십시오">Adobe 동료와 만남 - AI 팀원</a>
+                    </p>
+                    <p class="is-size-6">Adobe CX Enterprise Coworker이 AI 기반의 팀동료로 작동하여 분석, 콘텐츠 및 고객 여정 전반에서 워크플로를 향상시키는 방법에 대해 알아봅니다.</p>
+                </div>
+                <a href="../contents/2026/coworker-ai-teammate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
                 </a>
             </div>
@@ -164,7 +244,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/cja-stitching.md" title="Adobe Customer Journey Analytics 스티칭으로 크로스 채널 인사이트 향상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497282/?format=jpeg&nocache=1794352051152" alt="Adobe Customer Journey Analytics 스티칭으로 크로스 채널 인사이트 향상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497282/?format=jpeg&nocache=1794588217098" alt="Adobe Customer Journey Analytics 스티칭으로 크로스 채널 인사이트 향상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,7 +267,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/cja4t-mobile-app-personalization.md" title="실험에서 Insight - 모바일 앱 Personalization용 CJA4T" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496983/?captions=kor&format=jpeg&nocache=1794352051133" alt="실험에서 Insight - 모바일 앱 Personalization용 CJA4T"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496983/?captions=kor&format=jpeg&nocache=1794588217155" alt="실험에서 Insight - 모바일 앱 Personalization용 CJA4T"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -210,7 +290,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/aa-to-cja-migration-roadmap.md" title="Adobe Analytics에서 Customer Journey Analytics으로의 마이그레이션 로드맵" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496954/?format=jpeg&nocache=1794352051142" alt="Adobe Analytics에서 Customer Journey Analytics으로의 마이그레이션 로드맵"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496954/?format=jpeg&nocache=1794588217134" alt="Adobe Analytics에서 Customer Journey Analytics으로의 마이그레이션 로드맵"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -233,7 +313,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/data-collection-troubleshooting.md" title="데이터 수집 문제 해결 - 팁, 요령 및 거버넌스 모범 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496955/?format=jpeg&nocache=1794352051125" alt="데이터 수집 문제 해결 - 팁, 요령 및 거버넌스 모범 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496955/?format=jpeg&nocache=1794588217106" alt="데이터 수집 문제 해결 - 팁, 요령 및 거버넌스 모범 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -256,7 +336,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/scaling-ai-agents.md" title="Adobe AI 에이전트 크기 조정 - Audience Agent 및 Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1794352051184" alt="Adobe AI 에이전트 크기 조정 - Audience Agent 및 Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1794588217124" alt="Adobe AI 에이전트 크기 조정 - Audience Agent 및 Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +359,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/shared-components-cja.md" title="CJA 공유 구성 요소 - 한 번 설정하고 모든 곳에서 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491222/?format=jpeg&nocache=1794352051164" alt="CJA 공유 구성 요소 - 한 번 설정하고 모든 곳에서 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491222/?format=jpeg&nocache=1794588217145" alt="CJA 공유 구성 요소 - 한 번 설정하고 모든 곳에서 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -302,7 +382,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/data-insights-agent-cja.md" title="CJA에서 Adobe Data Insights Agent 작업" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491258/?format=jpeg&nocache=1794352051174" alt="CJA에서 Adobe Data Insights Agent 작업"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491258/?format=jpeg&nocache=1794588217113" alt="CJA에서 Adobe Data Insights Agent 작업"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -325,7 +405,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="Analytics 및 Customer Journey Analytics용 BRD-SDR 파일 생성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1794352052447" alt="Analytics 및 Customer Journey Analytics용 BRD-SDR 파일 생성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1794588217645" alt="Analytics 및 Customer Journey Analytics용 BRD-SDR 파일 생성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -371,7 +451,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-success" title="Adobe Customer Journey Analytics 성공 지원을 위한 경영진 후원 구축" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470861/?captions=kor&format=jpeg&nocache=1794352054035" alt="Adobe Customer Journey Analytics 성공 지원을 위한 경영진 후원 구축"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470861/?captions=kor&format=jpeg&nocache=1794588218531" alt="Adobe Customer Journey Analytics 성공 지원을 위한 경영진 후원 구축"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -394,7 +474,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-adoption" title="Adobe Customer Journey Analytics 채택을 위한 변경 관리 전략" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1794352053942" alt="Adobe Customer Journey Analytics 채택을 위한 변경 관리 전략"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1794588218402" alt="Adobe Customer Journey Analytics 채택을 위한 변경 관리 전략"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -417,7 +497,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-data-insights-agent" title="내 데이터와의 대화 - CJA Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1794352054246" alt="내 데이터와의 대화 - CJA Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1794588218547" alt="내 데이터와의 대화 - CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -440,7 +520,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-shared-audiences" title="CJA을 사용하여 30분 안에 오퍼 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477468/?captions=kor&format=jpeg&nocache=1794352053869" alt="CJA을 사용하여 30분 안에 오퍼 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477468/?captions=kor&format=jpeg&nocache=1794588218420" alt="CJA을 사용하여 30분 안에 오퍼 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -463,7 +543,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-operating-model" title="CJA 성공을 위한 운영 모델 디자인" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1794352054162" alt="CJA 성공을 위한 운영 모델 디자인"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1794588218783" alt="CJA 성공을 위한 운영 모델 디자인"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -486,7 +566,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-vision" title="Adobe Customer Journey Analytics 비전을 활성화하기 위해 필요한 기본 아키텍처" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1794352054167" alt="Adobe Customer Journey Analytics 비전을 활성화하기 위해 필요한 기본 아키텍처"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1794588218573" alt="Adobe Customer Journey Analytics 비전을 활성화하기 위해 필요한 기본 아키텍처"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -509,7 +589,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/analytics-to-cja-migration" title="Adobe Analytics에서 Adobe Customer Journey Analytics으로 마이그레이션하는 우수 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1794352054055" alt="Adobe Analytics에서 Adobe Customer Journey Analytics으로 마이그레이션하는 우수 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1794588218598" alt="Adobe Analytics에서 Adobe Customer Journey Analytics으로 마이그레이션하는 우수 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -532,7 +612,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/roadmap-to-value-cja" title="CJA을 통한 가치 창출 로드맵" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1794352053982" alt="CJA을 통한 가치 창출 로드맵"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1794588218514" alt="CJA을 통한 가치 창출 로드맵"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -574,7 +654,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/lean-teams-cja" title="효율성 극대화 - 린 팀 및 Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457015/?captions=kor&format=jpeg&nocache=1794352056021" alt="효율성 극대화 - 린 팀 및 Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457015/?captions=kor&format=jpeg&nocache=1794588219577" alt="효율성 극대화 - 린 팀 및 Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -597,7 +677,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/basic-to-intermediate-analysis-capabilities" title="Adobe Analytics 및 CJA Quick Start - 기본 - 중간 분석 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1794352056631" alt="Adobe Analytics 및 CJA Quick Start - 기본 - 중간 분석 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1794588219569" alt="Adobe Analytics 및 CJA Quick Start - 기본 - 중간 분석 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -620,7 +700,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/mastering-cookies-data-privacy" title="개인 정보 우선 분석 - Adobe Analytics 및 Customer Journey Analytics의 쿠키 및 데이터 개인 정보 보호 마스터링" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1794352056118" alt="개인 정보 우선 분석 - Adobe Analytics 및 Customer Journey Analytics의 쿠키 및 데이터 개인 정보 보호 마스터링"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1794588219702" alt="개인 정보 우선 분석 - Adobe Analytics 및 Customer Journey Analytics의 쿠키 및 데이터 개인 정보 보호 마스터링"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -643,7 +723,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/sequential-logic" title="Adobe Analytics 및 Customer Journey Analytics의 순차적 논리 마스터링 - 기초" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1794352056490" alt="Adobe Analytics 및 Customer Journey Analytics의 순차적 논리 마스터링 - 기초"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1794588219632" alt="Adobe Analytics 및 Customer Journey Analytics의 순차적 논리 마스터링 - 기초"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -698,7 +778,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md" title="콘텐츠 작업 - AEM AI Assistant 및 Adobe CX Enterprise Coworker을 사용하여 응답에서 결과에 이르기까지" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504830/?format=jpeg&nocache=1794352057389" alt="콘텐츠 작업 - AEM AI Assistant 및 Adobe CX Enterprise Coworker을 사용하여 응답에서 결과에 이르기까지"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504830/?format=jpeg&nocache=1794588220056" alt="콘텐츠 작업 - AEM AI Assistant 및 Adobe CX Enterprise Coworker을 사용하여 응답에서 결과에 이르기까지"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -721,7 +801,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/metadata-backbone-content-at-scale.md" title="태그됨, 관리됨, 활성화됨 - 규모에 맞는 콘텐츠의 메타데이터 백본" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503635/?format=jpeg&nocache=1794352057400" alt="태그됨, 관리됨, 활성화됨 - 규모에 맞는 콘텐츠의 메타데이터 백본"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503635/?format=jpeg&nocache=1794588219990" alt="태그됨, 관리됨, 활성화됨 - 규모에 맞는 콘텐츠의 메타데이터 백본"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -744,7 +824,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-assisted-development.md" title="AEM 에이전트 기술 - AI 지원 개발 올바르게 완료" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1794352057407" alt="AEM 에이전트 기술 - AI 지원 개발 올바르게 완료"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1794588220022" alt="AEM 에이전트 기술 - AI 지원 개발 올바르게 완료"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -767,7 +847,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-features-aem-assets.md" title="Adobe Experience Manager Assets의 AI 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1794352057427" alt="Adobe Experience Manager Assets의 AI 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1794588219978" alt="Adobe Experience Manager Assets의 AI 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -790,7 +870,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/genai-agents-aem.md" title="새로운 동료 - Adobe Experience Manager의 GenAI 에이전트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495848/?format=jpeg&nocache=1794352057420" alt="새로운 동료 - Adobe Experience Manager의 GenAI 에이전트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495848/?format=jpeg&nocache=1794588220028" alt="새로운 동료 - Adobe Experience Manager의 GenAI 에이전트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -813,7 +893,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/multi-region-teams.md" title="규모에 맞는 AEM 거버넌스 - 다중 지역 팀 및 AI 생성 콘텐츠 관리" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496404/?format=jpeg&nocache=1794352057415" alt="규모에 맞는 AEM 거버넌스 - 다중 지역 팀 및 AI 생성 콘텐츠 관리"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496404/?format=jpeg&nocache=1794588220007" alt="규모에 맞는 AEM 거버넌스 - 다중 지역 팀 및 AI 생성 콘텐츠 관리"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -836,7 +916,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/effective-use-case-statements.md" title="비즈니스 가치를 창출하는 효과적인 사용 사례 설명 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491510/?format=jpeg&nocache=1794352057441" alt="비즈니스 가치를 창출하는 효과적인 사용 사례 설명 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491510/?format=jpeg&nocache=1794588220014" alt="비즈니스 가치를 창출하는 효과적인 사용 사례 설명 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -859,7 +939,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/optimize-aem-for-geo.md" title="SEO에서 GEO로 - 웹 성능 및 AI 검색을 위한 AEM Sites 최적화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491280/?captions=kor&format=jpeg&nocache=1794352057433" alt="SEO에서 GEO로 - 웹 성능 및 AI 검색을 위한 AEM Sites 최적화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491280/?captions=kor&format=jpeg&nocache=1794588219998" alt="SEO에서 GEO로 - 웹 성능 및 AI 검색을 위한 AEM Sites 최적화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -882,7 +962,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491243/?captions=kor&format=jpeg&nocache=1794352057461" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491243/?captions=kor&format=jpeg&nocache=1794588220065" alt="컨텐츠 Supply chain 전반에 걸쳐 가치 창출 - 구조화된 프레임워크 및 측정 스코어카드"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -905,7 +985,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="범용 편집기 및 최신 SSR 프레임워크를 사용하여 빠르고 편집 가능한 사이트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1794352057450" alt="범용 편집기 및 최신 SSR 프레임워크를 사용하여 빠르고 편집 가능한 사이트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1794588220044" alt="범용 편집기 및 최신 SSR 프레임워크를 사용하여 빠르고 편집 가능한 사이트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -928,7 +1008,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-visibility.md" title="Adobe LLM Optimizer 및 Sites Optimizer을 통한 AI 시대의 가시성 확보" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1794352057471" alt="Adobe LLM Optimizer 및 Sites Optimizer을 통한 AI 시대의 가시성 확보"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1794588220035" alt="Adobe LLM Optimizer 및 Sites Optimizer을 통한 AI 시대의 가시성 확보"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -951,7 +1031,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Edge Delivery Services에서 작성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1794352058450" alt="Edge Delivery Services에서 작성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1794588220480" alt="Edge Delivery Services에서 작성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -974,7 +1054,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="콘텐츠 공급망 극대화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479093/?captions=kor&format=jpeg&nocache=1794352058772" alt="콘텐츠 공급망 극대화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479093/?captions=kor&format=jpeg&nocache=1794588220628" alt="콘텐츠 공급망 극대화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -997,7 +1077,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="AEM Sites을 위한 최신 게재 모델" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478782/?captions=kor&format=jpeg&nocache=1794352058683" alt="AEM Sites을 위한 최신 게재 모델"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478782/?captions=kor&format=jpeg&nocache=1794588220664" alt="AEM Sites을 위한 최신 게재 모델"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1020,7 +1100,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="AEM Cloud Service의 전략적 이점" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1794352058594" alt="AEM Cloud Service의 전략적 이점"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1794588220752" alt="AEM Cloud Service의 전략적 이점"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1069,7 +1149,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/personalized-experiences-aem" title="페이지 외에도 AEM의 새로운 기술을 통해 빠르고 유연하며 개인화된 경험 제공" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1794352060293" alt="페이지 외에도 AEM의 새로운 기술을 통해 빠르고 유연하며 개인화된 경험 제공"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1794588221554" alt="페이지 외에도 AEM의 새로운 기술을 통해 빠르고 유연하며 개인화된 경험 제공"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1092,7 +1172,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-lucene-search" title="AEM Lucene 검색에 대한 필수 팁 및 모범 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1794352061008" alt="AEM Lucene 검색에 대한 필수 팁 및 모범 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1794588221700" alt="AEM Lucene 검색에 대한 필수 팁 및 모범 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1115,7 +1195,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-genai" title="GenAI가 포함된 AEM - 규모에 맞게 콘텐츠 제작 및 게재 전환" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1794352060852" alt="GenAI가 포함된 AEM - 규모에 맞게 콘텐츠 제작 및 게재 전환"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1794588221758" alt="GenAI가 포함된 AEM - 규모에 맞게 콘텐츠 제작 및 게재 전환"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1138,7 +1218,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-workfront-integration" title="기본 커넥터를 사용하는 AEM 및 Workfront 통합" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1794352060917" alt="기본 커넥터를 사용하는 AEM 및 Workfront 통합"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1794588221309" alt="기본 커넥터를 사용하는 AEM 및 Workfront 통합"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1161,7 +1241,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/ai-assistant-in-aem" title="AEM의 AI 어시스턴트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1794352060579" alt="AEM의 AI 어시스턴트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1794588221683" alt="AEM의 AI 어시스턴트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1184,7 +1264,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/build-effective-web-pages" title="AEM Sites에서 효과적인 웹 페이지 구축" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1794352060753" alt="AEM Sites에서 효과적인 웹 페이지 구축"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1794588221735" alt="AEM Sites에서 효과적인 웹 페이지 구축"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1207,7 +1287,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/mastering-aem-sites" title="AEM Sites 마스터링 - 템플릿, 탐색 및 SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464322/?captions=kor&format=jpeg&nocache=1794352060757" alt="AEM Sites 마스터링 - 템플릿, 탐색 및 SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464322/?captions=kor&format=jpeg&nocache=1794588221817" alt="AEM Sites 마스터링 - 템플릿, 탐색 및 SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1230,7 +1310,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/mastering-dam-aem-content-hub" title="디지털 에셋 관리 마스터링 - Adobe ContentHub 모범 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1794352060907" alt="디지털 에셋 관리 마스터링 - Adobe ContentHub 모범 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1794588221530" alt="디지털 에셋 관리 마스터링 - Adobe ContentHub 모범 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1253,7 +1333,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/dynamic-media-open-ai" title="Open API를 사용하여 Dynamic Media 마스터링" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1794352060912" alt="Open API를 사용하여 Dynamic Media 마스터링"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1794588221608" alt="Open API를 사용하여 Dynamic Media 마스터링"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1276,7 +1356,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/new-relic-essentials-aem-cloud" title="AEM Cloud용 New Relic Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1794352060405" alt="AEM Cloud용 New Relic Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1794588221535" alt="AEM Cloud용 New Relic Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1299,7 +1379,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/optimize-aem-performance" title="AEM 성능 최적화 - 캐싱 전략 및 기법" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1794352060575" alt="AEM 성능 최적화 - 캐싱 전략 및 기법"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1794588221653" alt="AEM 성능 최적화 - 캐싱 전략 및 기법"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1322,7 +1402,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/modern-aem-authoring" title="최신 Adobe Experience Manager 작성을 위한 유니버설 편집기 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1794352061103" alt="최신 Adobe Experience Manager 작성을 위한 유니버설 편집기 개요"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1794588221646" alt="최신 Adobe Experience Manager 작성을 위한 유니버설 편집기 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1362,7 +1442,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/aem-authoring-concepts" title="AEM 기본 사항 AEM 소개 주요 개념 및 기능 작성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1794352063718" alt="AEM 기본 사항 AEM 소개 주요 개념 및 기능 작성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1794588222594" alt="AEM 기본 사항 AEM 소개 주요 개념 및 기능 작성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1385,7 +1465,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/aem-sites-efficiencies" title="AEM Sites 효율성 - 성능 최적화, 구성 및 문제 해결" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1794352063541" alt="AEM Sites 효율성 - 성능 최적화, 구성 및 문제 해결"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1794588222600" alt="AEM Sites 효율성 - 성능 최적화, 구성 및 문제 해결"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1408,7 +1488,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/edge-delivery-services" title="컨텐츠 전달 최적화 - Edge 서비스의 강력한 기능 잠금 해제" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1794352063402" alt="컨텐츠 전달 최적화 - Edge 서비스의 강력한 기능 잠금 해제"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1794588222716" alt="컨텐츠 전달 최적화 - Edge 서비스의 강력한 기능 잠금 해제"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1453,7 +1533,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/strategic-planning-cxo-success.md" title="CXO 성공을 위한 전략 계획 - 사용 사례, 아키텍처 및 작업 조정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502966/?format=jpeg&nocache=1794352064184" alt="CXO 성공을 위한 전략 계획 - 사용 사례, 아키텍처 및 작업 조정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502966/?format=jpeg&nocache=1794588223028" alt="CXO 성공을 위한 전략 계획 - 사용 사례, 아키텍처 및 작업 조정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1476,7 +1556,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/use-cases-into-business-outcomes.md" title="사용 사례를 비즈니스 성과로 전환" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497955/?format=jpeg&nocache=1794352064201" alt="사용 사례를 비즈니스 성과로 전환"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497955/?format=jpeg&nocache=1794588223041" alt="사용 사례를 비즈니스 성과로 전환"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1499,7 +1579,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/understand-adobe-ai-agentic-architecture.md" title="비즈니스 요구 사항에 맞는 Adobe의 AI 및 Agentic 아키텍처 이해" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496963/?captions=kor&format=jpeg&nocache=1794352064166" alt="비즈니스 요구 사항에 맞는 Adobe의 AI 및 Agentic 아키텍처 이해"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496963/?captions=kor&format=jpeg&nocache=1794588223035" alt="비즈니스 요구 사항에 맞는 Adobe의 AI 및 Agentic 아키텍처 이해"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1522,7 +1602,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/unlock-federated-audience-composition.md" title="AEP에서 Federated Audience 구성 잠금 해제 - 데이터 사일로에서 Unified Audiences로" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491512/?format=jpeg&nocache=1794352064194" alt="AEP에서 Federated Audience 구성 잠금 해제 - 데이터 사일로에서 Unified Audiences로"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491512/?format=jpeg&nocache=1794588223022" alt="AEP에서 Federated Audience 구성 잠금 해제 - 데이터 사일로에서 Unified Audiences로"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1545,7 +1625,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/unified-audiences.md" title="AEP에서 FAC(Federated Audience Composition) 잠금 해제 - 데이터 사일로에서 Unified Audiences로" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1794352064175" alt="AEP에서 FAC(Federated Audience Composition) 잠금 해제 - 데이터 사일로에서 Unified Audiences로"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1794588223047" alt="AEP에서 FAC(Federated Audience Composition) 잠금 해제 - 데이터 사일로에서 Unified Audiences로"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1568,7 +1648,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="임베디드 인텔리전스 시프트" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1794352065262" alt="임베디드 인텔리전스 시프트"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1794588223844" alt="임베디드 인텔리전스 시프트"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1613,7 +1693,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/ai-agents" title="AEP의 AI 에이전트 - 개요" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1794352067593" alt="AEP의 AI 에이전트 - 개요"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1794588224705" alt="AEP의 AI 에이전트 - 개요"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1636,7 +1716,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/ai-beyond-basics" title="AI Assistant - 기본 사항 이상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463365/?captions=kor&format=jpeg&nocache=1794352067890" alt="AI Assistant - 기본 사항 이상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463365/?captions=kor&format=jpeg&nocache=1794588224644" alt="AI Assistant - 기본 사항 이상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1659,7 +1739,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/model-xdm-schemas" title="XDM 스키마 모델링에 대한 우수 사례 및 통찰력" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1794352067761" alt="XDM 스키마 모델링에 대한 우수 사례 및 통찰력"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1794588224789" alt="XDM 스키마 모델링에 대한 우수 사례 및 통찰력"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1682,7 +1762,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/data-distiller-101" title="데이터 Distiller 101" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1794352067726" alt="데이터 Distiller 101"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1794588224636" alt="데이터 Distiller 101"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1705,7 +1785,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/identity-graph" title="ID 그래프 사용 사례 및 문제 해결" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1794352067390" alt="ID 그래프 사용 사례 및 문제 해결"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1794588224591" alt="ID 그래프 사용 사례 및 문제 해결"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1728,7 +1808,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/exec-sponsorship-aep-projects" title="Adobe Experience Platform 프로젝트에 대한 경영진 후원 수상" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1794352067734" alt="Adobe Experience Platform 프로젝트에 대한 경영진 후원 수상"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1794588224529" alt="Adobe Experience Platform 프로젝트에 대한 경영진 후원 수상"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1771,7 +1851,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/aep-apps-services-integrations" title="고객 사용 사례를 위한 AEP 앱 서비스 통합에 대해 알아봅니다" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1794352069602" alt="고객 사용 사례를 위한 AEP 앱 서비스 통합에 대해 알아봅니다"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1794588226243" alt="고객 사용 사례를 위한 AEP 앱 서비스 통합에 대해 알아봅니다"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1794,7 +1874,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/aep-use-case-planning" title="시작부터 가치 - AEP 사용 사례 계획" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1794352069868" alt="시작부터 가치 - AEP 사용 사례 계획"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1794588226156" alt="시작부터 가치 - AEP 사용 사례 계획"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1817,7 +1897,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/aep-marketo-integration" title="Real-Time Customer Data Platform 및 Marketo 통합의 기본 사항" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433675/?captions=kor&format=jpeg&nocache=1794352069718" alt="Real-Time Customer Data Platform 및 Marketo 통합의 기본 사항"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433675/?captions=kor&format=jpeg&nocache=1794588226580" alt="Real-Time Customer Data Platform 및 Marketo 통합의 기본 사항"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1840,7 +1920,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/data-stream-prioritization" title="데이터 스트림 우선 순위 지정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456812/?captions=kor&format=jpeg&nocache=1794352069764" alt="데이터 스트림 우선 순위 지정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456812/?captions=kor&format=jpeg&nocache=1794588226216" alt="데이터 스트림 우선 순위 지정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1870,6 +1950,7 @@ CARDS
 
 {cta = Watch}
 
+* ../contents/2026/adobe-ai-agents-in-practice.md
 * ../contents/2026/sustainable-ai-adoption.md
 * ../contents/2026/ai-agentic-investments-to-business-impact.md
 * ../contents/2026/building-for-ai-scale.md
@@ -1882,12 +1963,35 @@ CARDS
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe AI Agents in Practice - Identifying and Defining Practical Use Cases">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/adobe-ai-agents-in-practice.md" title="Adobe AI 에이전트 실무 - 실제 사용 사례 식별 및 정의" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508247/?format=jpeg&nocache=1794588226869" alt="Adobe AI 에이전트 실무 - 실제 사용 사례 식별 및 정의"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/adobe-ai-agents-in-practice.md" target="_blank" rel="referrer" title="Adobe AI 에이전트 실무 - 실제 사용 사례 식별 및 정의">실제 Adobe AI 에이전트 - 실제 사용 사례 식별 및 정의</a>
+                    </p>
+                    <p class="is-size-6">AI 에이전트 사용 사례를 효과적으로 식별, 정의 및 확장하는 방법을 살펴봅니다. 효과적인 워크플로를 찾아내고 책임 있는 AI 운영을 보장하기 위한 방법에 대해 알아봅니다.</p>
+                </div>
+                <a href="../contents/2026/adobe-ai-agents-in-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Readiness - Preparing for Sustainable AI Adoption">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/sustainable-ai-adoption.md" title="AI 준비 - 지속 가능한 AI 채택 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505912/?format=jpeg&nocache=1794352071291" alt="AI 준비 - 지속 가능한 AI 채택 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505912/?format=jpeg&nocache=1794588226844" alt="AI 준비 - 지속 가능한 AI 채택 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1910,7 +2014,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-agentic-investments-to-business-impact.md" title="비즈니스 영향에 대한 AI 에이전트 투자 연결" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505410/?format=jpeg&nocache=1794352071282" alt="비즈니스 영향에 대한 AI 에이전트 투자 연결"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505410/?format=jpeg&nocache=1794588226835" alt="비즈니스 영향에 대한 AI 에이전트 투자 연결"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1933,7 +2037,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/building-for-ai-scale.md" title="콘텐츠 제작에서 경험 제작까지 - AI 확장성을 위한 구축" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504068/?format=jpeg&nocache=1794352071298" alt="콘텐츠 제작에서 경험 제작까지 - AI 확장성을 위한 구축"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504068/?format=jpeg&nocache=1794588226860" alt="콘텐츠 제작에서 경험 제작까지 - AI 확장성을 위한 구축"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1956,7 +2060,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/operational-drift.md" title="운영 환경 변화 극복 - Go-Live 후 채택 유지" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496403/?format=jpeg&nocache=1794352071306" alt="운영 환경 변화 극복 - Go-Live 후 채택 유지"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496403/?format=jpeg&nocache=1794588226851" alt="운영 환경 변화 극복 - Go-Live 후 채택 유지"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1979,7 +2083,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-change-management" title="VRA 세션 5 - 컨텐츠 Supply chain 운영을 위한 관리 전략 변경" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479824/?captions=kor&format=jpeg&nocache=1794352072247" alt="VRA 세션 5 - 컨텐츠 Supply chain 운영을 위한 관리 전략 변경"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479824/?captions=kor&format=jpeg&nocache=1794588227766" alt="VRA 세션 5 - 컨텐츠 Supply chain 운영을 위한 관리 전략 변경"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2002,7 +2106,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-executive-sponsorship" title="컨텐츠 Supply chain 전반의 성공을 이끄는 경영진 후원 설립" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479847/?format=jpeg&nocache=1794352072329" alt="컨텐츠 Supply chain 전반의 성공을 이끄는 경영진 후원 설립"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479847/?format=jpeg&nocache=1794588227463" alt="컨텐츠 Supply chain 전반의 성공을 이끄는 경영진 후원 설립"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2025,7 +2129,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-architecture" title="컨텐츠 Supply chain을 지원하는 기본 아키텍처" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479507/?format=jpeg&nocache=1794352072459" alt="컨텐츠 Supply chain을 지원하는 기본 아키텍처"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479507/?format=jpeg&nocache=1794588227654" alt="컨텐츠 Supply chain을 지원하는 기본 아키텍처"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2048,7 +2152,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-operating-model" title="컨텐츠 Supply chain 성공을 위한 운영 모델 디자인" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479848/?format=jpeg&nocache=1794352072321" alt="컨텐츠 Supply chain 성공을 위한 운영 모델 디자인"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479848/?format=jpeg&nocache=1794588227789" alt="컨텐츠 Supply chain 성공을 위한 운영 모델 디자인"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2090,7 +2194,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/impactful-insights" title="효과적인 통찰력 - 효과적인 측정을 위한 전략 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1794352074013" alt="효과적인 통찰력 - 효과적인 측정을 위한 전략 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1794588228560" alt="효과적인 통찰력 - 효과적인 측정을 위한 전략 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2113,7 +2217,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/agile-marketing-organization" title="애자일 마케팅 조직 육성" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1794352073911" alt="애자일 마케팅 조직 육성"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1794588228530" alt="애자일 마케팅 조직 육성"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2136,7 +2240,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/practical-business-use-cases" title="실용적인 B2B 사용 사례 개발" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1794352073917" alt="실용적인 B2B 사용 사례 개발"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1794588228633" alt="실용적인 B2B 사용 사례 개발"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2159,7 +2263,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/digital-trends-preparing-future" title="디지털 트렌드 및 미래 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1794352074019" alt="디지털 트렌드 및 미래 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1794588228423" alt="디지털 트렌드 및 미래 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2182,7 +2286,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/general2025/northstar-architecture" title="EA Northstar 아키텍처 계획" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1794352073903" alt="EA Northstar 아키텍처 계획"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1794588228608" alt="EA Northstar 아키텍처 계획"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2227,7 +2331,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/effective-change-management" title="변경 탐색 - 효과적인 변경 관리에 대한 선임 리더십 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1794352075381" alt="변경 탐색 - 효과적인 변경 관리에 대한 선임 리더십 웨비나"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1794588229260" alt="변경 탐색 - 효과적인 변경 관리에 대한 선임 리더십 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2250,7 +2354,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/empowering-lean-teams" title="Lean 팀 지원" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1794352075419" alt="Lean 팀 지원"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1794588229563" alt="Lean 팀 지원"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2273,7 +2377,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/hyperpersonalization" title="Personalization 성숙도 - 하이퍼개인화 경로" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457352/?captions=kor&format=jpeg&nocache=1794352075568" alt="Personalization 성숙도 - 하이퍼개인화 경로"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457352/?captions=kor&format=jpeg&nocache=1794588229662" alt="Personalization 성숙도 - 하이퍼개인화 경로"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2296,7 +2400,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/adobe-admin-console" title="Adobe Admin Console 마스터링" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1794352075372" alt="Adobe Admin Console 마스터링"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1794588229520" alt="Adobe Admin Console 마스터링"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2319,7 +2423,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/organizational-readiness-content-supply-chain" title="컨텐츠 Supply chain 문제를 해결하기 위한 Adobe GenStudio 조직의 준비 능력 확보" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1794352075466" alt="컨텐츠 Supply chain 문제를 해결하기 위한 Adobe GenStudio 조직의 준비 능력 확보"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1794588229414" alt="컨텐츠 Supply chain 문제를 해결하기 위한 Adobe GenStudio 조직의 준비 능력 확보"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2342,7 +2446,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/strategic-leadership" title="전략적 리더십" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456790/?captions=kor&format=jpeg&nocache=1794352075547" alt="전략적 리더십"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456790/?captions=kor&format=jpeg&nocache=1794588229545" alt="전략적 리더십"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2365,7 +2469,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/streamline-authentication" title="인증 간소화 - 서비스 계정(JWT)에서 OAuth 서버 간 자격 증명으로 마이그레이션" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1794352075517" alt="인증 간소화 - 서비스 계정(JWT)에서 OAuth 서버 간 자격 증명으로 마이그레이션"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1794588229657" alt="인증 간소화 - 서비스 계정(JWT)에서 OAuth 서버 간 자격 증명으로 마이그레이션"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2383,12 +2487,12 @@ CARDS
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="The Strategic Power of Measurement - Turning Data into Action">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Turning Data into Action - Building your Reporting Narrative with Workfront Fusion">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/turning-data-into-action" title="측정의 전략적 능력 - 데이터를 행동으로 전환" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1794352075661" alt="측정의 전략적 능력 - 데이터를 행동으로 전환"
+                    <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/turning-data-into-action" title="데이터를 실제로 활용 - Workfront Fusion을 사용하여 보고 이야기 구축" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508231/?format=jpeg&nocache=1794588229421" alt="데이터를 실제로 활용 - Workfront Fusion을 사용하여 보고 이야기 구축"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2396,9 +2500,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/turning-data-into-action" target="_blank" rel="referrer" title="측정의 전략적 능력 - 데이터를 행동으로 전환">전략적 측정 기능 - 데이터를 실제로 활용</a>
+                        <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/turning-data-into-action" target="_blank" rel="referrer" title="데이터를 실제로 활용 - Workfront Fusion을 사용하여 보고 이야기 구축">데이터 실행 - Workfront Fusion으로 보고 이야기 구축</a>
                     </p>
-                    <p class="is-size-6">효과적인 측정 전략은 이해 당사자를 참여시키고, 데이터에 대한 친숙도를 보장하며, 의사 결정에 대한 신뢰도를 높여 신뢰와 권한을 강화하는 반면, 투명성, 데이터 거버넌스 및 이해 당사자 정렬을 통해 신뢰를 구축하고, 교육, 액세스 가능한 도구 및 실행 가능한 데이터를 통해 권한을 부여함으로써 비즈니스 영향과 운영 효율성을 통해 분석의 가치를 입증하는 데 기여합니다.</p>
+                    <p class="is-size-6">Workfront Fusion을 사용하여 자동화 데이터를 매력적인 보고 내용으로 변환하는 방법에 대해 알아봅니다. 관리자 및 크리에이티브 리더에게 이상적입니다.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/turning-data-into-action" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -2427,7 +2531,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/genstudio2025/csc-gen-studio" title="컨텐츠 Supply chain 및 Adobe GenStudio as a Product Suite 식별" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472986/?captions=kor&format=jpeg&nocache=1794352077576" alt="컨텐츠 Supply chain 및 Adobe GenStudio as a Product Suite 식별"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472986/?captions=kor&format=jpeg&nocache=1794588230449" alt="컨텐츠 Supply chain 및 Adobe GenStudio as a Product Suite 식별"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2450,7 +2554,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/genstudio2025/genstudio-for-performance-marketing-operating-model" title="GenStudio for Performance Marketings - 운영 모델 및 거버넌스 전략" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1794352077568" alt="GenStudio for Performance Marketings - 운영 모델 및 거버넌스 전략"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1794588230538" alt="GenStudio for Performance Marketings - 운영 모델 및 거버넌스 전략"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2480,6 +2584,7 @@ CARDS
 
 {cta = Watch}
 
+* ../contents/2026/ajo-troubleshooting.md
 * ../contents/2026/strategies-for-smarter-personalization.md
 * ../contents/2026/ajo-product-relelase-session.md
 * ../contents/2026/journey-agent.md
@@ -2492,12 +2597,35 @@ CARDS
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AJO Troubleshooting - Finding the Root Cause">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../contents/2026/ajo-troubleshooting.md" title="AJO 문제 해결 - 근본 원인 찾기" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508248/?format=jpeg&nocache=1794588231293" alt="AJO 문제 해결 - 근본 원인 찾기"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../contents/2026/ajo-troubleshooting.md" target="_blank" rel="referrer" title="AJO 문제 해결 - 근본 원인 찾기">AJO 문제 해결 - 근본 원인 찾기</a>
+                    </p>
+                    <p class="is-size-6">Adobe Journey Optimizer 문제를 해결하고, 문제를 식별하고, 솔루션을 효과적으로 찾는 실용적인 기술을 배웁니다.</p>
+                </div>
+                <a href="../contents/2026/ajo-troubleshooting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AJO Code-Based Experiences - Strategies for Smarter Personalization">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/strategies-for-smarter-personalization.md" title="AJO 코드 기반 경험 - 스마트한 Personalization을 위한 전략" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504248/?format=jpeg&nocache=1794352078249" alt="AJO 코드 기반 경험 - 스마트한 Personalization을 위한 전략"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504248/?format=jpeg&nocache=1794588231312" alt="AJO 코드 기반 경험 - 스마트한 Personalization을 위한 전략"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2520,7 +2648,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-relelase-session.md" title="AJO 제품 릴리스 세션" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497685/?format=jpeg&nocache=1794352078238" alt="AJO 제품 릴리스 세션"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497685/?format=jpeg&nocache=1794588231264" alt="AJO 제품 릴리스 세션"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2543,7 +2671,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/journey-agent.md" title="Adobe 에이전트 크기 조정 - Journey Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496957/?format=jpeg&nocache=1794352078219" alt="Adobe 에이전트 크기 조정 - Journey Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496957/?format=jpeg&nocache=1794588231244" alt="Adobe 에이전트 크기 조정 - Journey Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2566,7 +2694,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-use-cases.md" title="아이디어부터 영향까지 - AJO 사용 사례 생성 및 우선 순위" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495850/?format=jpeg&nocache=1794352078230" alt="아이디어부터 영향까지 - AJO 사용 사례 생성 및 우선 순위"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495850/?format=jpeg&nocache=1794588231254" alt="아이디어부터 영향까지 - AJO 사용 사례 생성 및 우선 순위"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2589,7 +2717,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/maximize-ajo-value.md" title="AJO 가치를 극대화하기 위한 고객 경험 전략 수립" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491513/?format=jpeg&nocache=1794352078256" alt="AJO 가치를 극대화하기 위한 고객 경험 전략 수립"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491513/?format=jpeg&nocache=1794588231271" alt="AJO 가치를 극대화하기 위한 고객 경험 전략 수립"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2612,7 +2740,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="AJO 제품 릴리스 세션" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1794352078263" alt="AJO 제품 릴리스 세션"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1794588231286" alt="AJO 제품 릴리스 세션"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2635,7 +2763,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/intelligent-decsioning.md" title="지능형 의사 결정을 통해 실시간 고객 경험 강화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486512/?captions=kor&format=jpeg&nocache=1794352078276" alt="지능형 의사 결정을 통해 실시간 고객 경험 강화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486512/?captions=kor&format=jpeg&nocache=1794588231279" alt="지능형 의사 결정을 통해 실시간 고객 경험 강화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2658,7 +2786,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/change-management-deep-dive.md" title="변경 관리 심층 분석 Adobe Journey Optimizer(AJO)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1794352078270" alt="변경 관리 심층 분석 Adobe Journey Optimizer(AJO)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1794588231301" alt="변경 관리 심층 분석 Adobe Journey Optimizer(AJO)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2703,7 +2831,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/build-executive-sponsorship-ajo" title="Adobe Journey Optimizer 성공 지원을 위한 경영진 후원 구축" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1794352080453" alt="Adobe Journey Optimizer 성공 지원을 위한 경영진 후원 구축"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1794588232341" alt="Adobe Journey Optimizer 성공 지원을 위한 경영진 후원 구축"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2726,7 +2854,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies" title="Adobe Journey Optimizer 채택을 위한 변경 관리 전략" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1794352080166" alt="Adobe Journey Optimizer 채택을 위한 변경 관리 전략"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1794588232275" alt="Adobe Journey Optimizer 채택을 위한 변경 관리 전략"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2749,7 +2877,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/design-an-operating-model-ajo" title="AJO 성공을 위한 운영 모델 디자인" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1794352079979" alt="AJO 성공을 위한 운영 모델 디자인"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1794588232793" alt="AJO 성공을 위한 운영 모델 디자인"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2772,7 +2900,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/journey-optimizer-essentials" title="Journey Optimizer Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1794352080175" alt="Journey Optimizer Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1794588232372" alt="Journey Optimizer Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2795,7 +2923,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/northstar-architecture-enable-adobe-journey-optimzier" title="NorthStar 아키텍처를 활용하여 Adobe Journey Optimizer 비전 실현" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1794352080489" alt="NorthStar 아키텍처를 활용하여 Adobe Journey Optimizer 비전 실현"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1794588232480" alt="NorthStar 아키텍처를 활용하여 Adobe Journey Optimizer 비전 실현"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2818,7 +2946,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/ajo-adobe-campaign" title="Adobe Journey Optimizer 및 Adobe Campaign을 사용하여 캠페인 현대화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477900/?captions=kor&format=jpeg&nocache=1794352079958" alt="Adobe Journey Optimizer 및 Adobe Campaign을 사용하여 캠페인 현대화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477900/?captions=kor&format=jpeg&nocache=1794588232249" alt="Adobe Journey Optimizer 및 Adobe Campaign을 사용하여 캠페인 현대화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2841,7 +2969,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/ajo-roadmap-to-value" title="Adobe Journey Optimizer 가치 실현 시리즈 - Adobe Journey Optimizer을 통한 가치 창출에 대한 세션 1 로드맵" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1794352080447" alt="Adobe Journey Optimizer 가치 실현 시리즈 - Adobe Journey Optimizer을 통한 가치 창출에 대한 세션 1 로드맵"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1794588232269" alt="Adobe Journey Optimizer 가치 실현 시리즈 - Adobe Journey Optimizer을 통한 가치 창출에 대한 세션 1 로드맵"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2885,7 +3013,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/ajo-essentials" title="Adobe Journey Optimizer Essentials - 캠페인, 고객 여정 및 랜딩 페이지 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1794352081943" alt="Adobe Journey Optimizer Essentials - 캠페인, 고객 여정 및 랜딩 페이지 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1794588233562" alt="Adobe Journey Optimizer Essentials - 캠페인, 고객 여정 및 랜딩 페이지 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2908,7 +3036,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/ai-personalization" title="Adobe Target의 AI 기반 Personalization으로 사용자 경험 극대화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1794352082319" alt="Adobe Target의 AI 기반 Personalization으로 사용자 경험 극대화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1794588233511" alt="Adobe Target의 AI 기반 Personalization으로 사용자 경험 극대화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2931,7 +3059,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/ai-copywriting" title="AI 기반 카피라이팅을 통한 콘텐츠 가속" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1794352081814" alt="AI 기반 카피라이팅을 통한 콘텐츠 가속"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1794588233549" alt="AI 기반 카피라이팅을 통한 콘텐츠 가속"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2954,7 +3082,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/journey-optimizer-mobile-capabilities" title="Journey Optimizer Mobile 기능" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1794352081870" alt="Journey Optimizer Mobile 기능"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1794588233573" alt="Journey Optimizer Mobile 기능"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2977,7 +3105,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/getting-started-ajo-analysis" title="Customer Journey Analytics에서 Adobe Journey Optimizer Analysis 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1794352082360" alt="Customer Journey Analytics에서 Adobe Journey Optimizer Analysis 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1794588233581" alt="Customer Journey Analytics에서 Adobe Journey Optimizer Analysis 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3000,7 +3128,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/edge-network-mobile-personalization" title="Adobe 솔루션을 사용한 Edge Network 및 모바일 Personalization에 대한 통찰력" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1794352081937" alt="Adobe 솔루션을 사용한 Edge Network 및 모바일 Personalization에 대한 통찰력"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1794588233492" alt="Adobe 솔루션을 사용한 Edge Network 및 모바일 Personalization에 대한 통찰력"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3040,7 +3168,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ai-visibility.md" title="Adobe LLM Optimizer 및 Sites Optimizer을 통한 AI 시대의 가시성 확보" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1794352082716" alt="Adobe LLM Optimizer 및 Sites Optimizer을 통한 AI 시대의 가시성 확보"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1794588233867" alt="Adobe LLM Optimizer 및 Sites Optimizer을 통한 AI 시대의 가시성 확보"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3082,7 +3210,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/marketo-ai-toolkit.md" title="Marketo AI Toolkit - 라이브, 다음, 처음 시도할 내용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508118/?format=jpeg&nocache=1794352082966" alt="Marketo AI Toolkit - 라이브, 다음, 처음 시도할 내용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3508118/?format=jpeg&nocache=1794588234060" alt="Marketo AI Toolkit - 라이브, 다음, 처음 시도할 내용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3105,7 +3233,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/marketo-lead-management-best-practices.md" title="Marketo Engage 리드 관리 우수 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502995/?captions=kor&format=jpeg&nocache=1794352082980" alt="Marketo Engage 리드 관리 우수 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502995/?captions=kor&format=jpeg&nocache=1794588234045" alt="Marketo Engage 리드 관리 우수 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3128,7 +3256,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/email-campaigns.md" title="이메일 캠페인에 GenStudio for Performance Marketing 및 Marketo 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491520/?captions=kor&format=jpeg&nocache=1794352082974" alt="이메일 캠페인에 GenStudio for Performance Marketing 및 Marketo 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491520/?captions=kor&format=jpeg&nocache=1794588234051" alt="이메일 캠페인에 GenStudio for Performance Marketing 및 Marketo 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3167,7 +3295,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/marketo2025/marketo-new-email-editor" title="Marketo 새 이메일 편집기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477881/?format=jpeg&nocache=1794352085035" alt="Marketo 새 이메일 편집기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477881/?format=jpeg&nocache=1794588235180" alt="Marketo 새 이메일 편집기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3207,7 +3335,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/smarter-marketing-mix-modeler.md" title="Adobe Mix Modeler을 통한 현명한 마케팅 결정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502958/?format=jpeg&nocache=1794352085349" alt="Adobe Mix Modeler을 통한 현명한 마케팅 결정"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502958/?format=jpeg&nocache=1794588235379" alt="Adobe Mix Modeler을 통한 현명한 마케팅 결정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3253,7 +3381,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/content-supply-chain-basics" title="컨텐츠 Supply chain 기본 사항 - 신규 사용자를 위한 AEM, Analytics/CJA 및 Adobe Target 통합" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1794352087488" alt="컨텐츠 Supply chain 기본 사항 - 신규 사용자를 위한 AEM, Analytics/CJA 및 Adobe Target 통합"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1794588236112" alt="컨텐츠 Supply chain 기본 사항 - 신규 사용자를 위한 AEM, Analytics/CJA 및 Adobe Target 통합"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3276,7 +3404,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/accelerating-digital-experience-optimization" title="AI 기반 인사이트를 통한 디지털 경험 최적화 가속화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1794352086804" alt="AI 기반 인사이트를 통한 디지털 경험 최적화 가속화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1794588236174" alt="AI 기반 인사이트를 통한 디지털 경험 최적화 가속화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3299,7 +3427,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/enhance-loyalty-programs" title="Adobe 솔루션의 강력한 기능을 통해 Personalization 및 데이터를 통한 충성도 프로그램 강화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1794352086997" alt="Adobe 솔루션의 강력한 기능을 통해 Personalization 및 데이터를 통한 충성도 프로그램 강화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1794588236159" alt="Adobe 솔루션의 강력한 기능을 통해 Personalization 및 데이터를 통한 충성도 프로그램 강화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3322,7 +3450,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/enhancing-personalization" title="Personalization 개선 - CJA 및 AEM과 Adobe Target용 통합 Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1794352087159" alt="Personalization 개선 - CJA 및 AEM과 Adobe Target용 통합 Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1794588236127" alt="Personalization 개선 - CJA 및 AEM과 Adobe Target용 통합 Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3345,7 +3473,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/gen-ai-experimentation" title="AJO의 GenAI 실험 및 Adobe Target과의 관계" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444466/?captions=kor&format=jpeg&nocache=1794352087295" alt="AJO의 GenAI 실험 및 Adobe Target과의 관계"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444466/?captions=kor&format=jpeg&nocache=1794588236226" alt="AJO의 GenAI 실험 및 Adobe Target과의 관계"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3368,7 +3496,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/mastering-sequential-logic" title="AA 및 CJA의 순차적 논리 마스터링 - 시각적 프레임워크" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1794352087288" alt="AA 및 CJA의 순차적 논리 마스터링 - 시각적 프레임워크"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1794588236008" alt="AA 및 CJA의 순차적 논리 마스터링 - 시각적 프레임워크"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3391,7 +3519,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/sequential-logic-start-stop" title="Adobe Analytics 및 Customer Journey Analytics에서 순차적 논리 마스터링 - 시작 및 중지" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1794352087137" alt="Adobe Analytics 및 Customer Journey Analytics에서 순차적 논리 마스터링 - 시작 및 중지"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1794588236100" alt="Adobe Analytics 및 Customer Journey Analytics에서 순차적 논리 마스터링 - 시작 및 중지"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3429,7 +3557,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/web-sdk-migration" title="웹 SDK 마이그레이션 핵심 사항" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1794352089094" alt="웹 SDK 마이그레이션 핵심 사항"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1794588237245" alt="웹 SDK 마이그레이션 핵심 사항"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3469,7 +3597,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/future-b2b-growth.md" title="Adobe 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503927/?format=jpeg&nocache=1794352089670" alt="Adobe 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503927/?format=jpeg&nocache=1794588237455" alt="Adobe 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3510,7 +3638,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/rtcdp-migration-readiness" title="실시간 고객 데이터 플랫폼 마이그레이션 준비" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1794352091839" alt="실시간 고객 데이터 플랫폼 마이그레이션 준비"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1794588238331" alt="실시간 고객 데이터 플랫폼 마이그레이션 준비"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3533,7 +3661,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/getting-started-rtcdp" title="Real-Time Customer Data Platform - 시작" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1794352091733" alt="Real-Time Customer Data Platform - 시작"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1794588238311" alt="Real-Time Customer Data Platform - 시작"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3556,7 +3684,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/ai-customer-experience" title="RTCDP Insights - 고객 경험을 위한 AI 활용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1794352091627" alt="RTCDP Insights - 고객 경험을 위한 AI 활용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1794588238629" alt="RTCDP Insights - 고객 경험을 위한 AI 활용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3579,7 +3707,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/use-case-mapping" title="Real-Time CDP - 솔루션 기능에 대한 사용 사례 매핑" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1794352091776" alt="Real-Time CDP - 솔루션 기능에 대한 사용 사례 매핑"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1794588238749" alt="Real-Time CDP - 솔루션 기능에 대한 사용 사례 매핑"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3619,7 +3747,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/target2025/ai-adobe-target" title="AI의 강력한 기능 활용 - Adobe Target을 통한 고급 실험" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1794352093227" alt="AI의 강력한 기능 활용 - Adobe Target을 통한 고급 실험"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1794588239529" alt="AI의 강력한 기능 활용 - Adobe Target을 통한 고급 실험"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3657,7 +3785,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/target-personalization" title="Target Personalization - 권장 사항 및 범주 친화성 시작" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504889/?captions=kor&format=jpeg&nocache=1794352094841" alt="Target Personalization - 권장 사항 및 범주 친화성 시작"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504889/?captions=kor&format=jpeg&nocache=1794588240248" alt="Target Personalization - 권장 사항 및 범주 친화성 시작"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3701,7 +3829,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/wip-review-approval-gap.md" title="초안에서 납품까지 - WIP 검토 및 승인 간격 마감" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503933/?captions=kor&format=jpeg&nocache=1794352095470" alt="초안에서 납품까지 - WIP 검토 및 승인 간격 마감"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503933/?captions=kor&format=jpeg&nocache=1794588240453" alt="초안에서 납품까지 - WIP 검토 및 승인 간격 마감"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3724,7 +3852,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/get-more-from-workfront-planning.md" title="전략에서 실행까지 - Workfront Planning에서 자세히 알아보기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502975/?captions=kor&format=jpeg&nocache=1794352095442" alt="전략에서 실행까지 - Workfront Planning에서 자세히 알아보기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502975/?captions=kor&format=jpeg&nocache=1794588240473" alt="전략에서 실행까지 - Workfront Planning에서 자세히 알아보기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3747,7 +3875,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/scalable-operating-model.md" title="정체가 없는 거버넌스 - Adobe Workfront에서 마케팅 작업을 위한 확장 가능한 운영 모델 구축" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497156/?format=jpeg&nocache=1794352095462" alt="정체가 없는 거버넌스 - Adobe Workfront에서 마케팅 작업을 위한 확장 가능한 운영 모델 구축"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497156/?format=jpeg&nocache=1794588240463" alt="정체가 없는 거버넌스 - Adobe Workfront에서 마케팅 작업을 위한 확장 가능한 운영 모델 구축"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3770,7 +3898,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/brand-experience-agent.md" title="Adobe 에이전트 확장 - Brand Experience Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496972/?captions=kor&format=jpeg&nocache=1794352095453" alt="Adobe 에이전트 확장 - Brand Experience Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496972/?captions=kor&format=jpeg&nocache=1794588240443" alt="Adobe 에이전트 확장 - Brand Experience Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3793,7 +3921,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/unified-review-approvals-workfront.md" title="Workfront에서 통합 검토 및 승인을 원하는 이유" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497102/?format=jpeg&nocache=1794352095478" alt="Workfront에서 통합 검토 및 승인을 원하는 이유"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497102/?format=jpeg&nocache=1794588240429" alt="Workfront에서 통합 검토 및 승인을 원하는 이유"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3835,7 +3963,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/workfront2025/unlock-efficiency-ai-drive-automation-workfront" title="효율성 극대화 - Adobe Workfront의 AI 기반 자동화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1794352098541" alt="효율성 극대화 - Adobe Workfront의 AI 기반 자동화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1794588241434" alt="효율성 극대화 - Adobe Workfront의 AI 기반 자동화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3858,7 +3986,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/workfront2025/adobe-workfront-fusion-best-practices" title="Adobe Workfront Fusion 기본 사항 및 우수 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1794352098330" alt="Adobe Workfront Fusion 기본 사항 및 우수 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1794588241382" alt="Adobe Workfront Fusion 기본 사항 및 우수 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3881,7 +4009,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2025/workfront2025/workfront-and-jira" title="Workfront 및 JIRA - 마케팅 작업 관리 및 개발 실행 시스템 연결" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1794352098600" alt="Workfront 및 JIRA - 마케팅 작업 관리 및 개발 실행 시스템 연결"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1794588241574" alt="Workfront 및 JIRA - 마케팅 작업 관리 및 개발 실행 시스템 연결"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3921,7 +4049,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-lean-teams" title="Adobe Workfront으로 효율성 극대화 - Lean Teams 웨비나" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456714/?captions=kor&format=jpeg&nocache=1794352100594" alt="Adobe Workfront으로 효율성 극대화 - Lean Teams 웨비나"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456714/?captions=kor&format=jpeg&nocache=1794588242239" alt="Adobe Workfront으로 효율성 극대화 - Lean Teams 웨비나"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3944,7 +4072,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-mastery" title="Workfront 숙달 - 성공을 위한 전략" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505044/?captions=kor&format=jpeg&nocache=1794352100014" alt="Workfront 숙달 - 성공을 위한 전략"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505044/?captions=kor&format=jpeg&nocache=1794588242564" alt="Workfront 숙달 - 성공을 위한 전략"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3967,7 +4095,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-admin-guardianship" title="Workfront 시스템 및 그룹 관리 후견의 기본 사항" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1794352099738" alt="Workfront 시스템 및 그룹 관리 후견의 기본 사항"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1794588242604" alt="Workfront 시스템 및 그룹 관리 후견의 기본 사항"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
