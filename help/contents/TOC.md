@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success 웨비나 라이브러리
 breadcrumb-title: Ultimate Success 웨비나 라이브러리
 user-guide-description: Ultimate Success 고객을 위해 전문가가 주도하는 독점적인 웨비나 라이브러리를 액세스하여 측정 가능한 비즈니스 결과를 도출하는 전략 및 기술 모범 사례를 신속하게 마스터할 수 있습니다.
 nudge: true
-source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
+source-git-commit: 35b838f2553e462a3f6e4f202e7440e049adef2f
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '322'
 ht-degree: 0%
 ---
 
@@ -71,4 +71,5 @@ ht-degree: 0%
   + {hide-from-toc}[Adobe 동료 - AI 팀원](../contents/2026/coworker-ai-teammate.md)
   + {hide-from-toc}[Analytics 인사이트를 실험 백로그로 전환](../contents/2026/analytics-insights-experimentation-backlog.md)
   + {hide-from-toc}[실제 Adobe AI 에이전트](../contents/2026/adobe-ai-agents-in-practice.md)
+  + {hide-from-toc}[RTCDP 우수 센터](..//contents/2026/rtcdp-center-of-excellence.md)
 
