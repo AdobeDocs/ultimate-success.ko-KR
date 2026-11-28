@@ -22,7 +22,7 @@ ht-degree: 1%
 
 어떻게 하면 대상의 복잡성을 조율된 동작으로 바꿀 수 있습니까? 이 실용적인 세션은 기업 설계자 및 플랫폼 소유자에게 Adobe Experience Platform 및 Real-Time CDP과 관련된 팀, 소유권, 거버넌스, 활성화 및 측정을 위한 프레임워크를 제공하여 비즈니스 단위가 보다 명확하고 책임감 있게 함께 작동할 수 있도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508597/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508603/?captions=kor&learn=on&enablevpops)
 
 ## 주요 학습 사항
 
